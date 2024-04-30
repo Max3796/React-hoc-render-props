@@ -1,3 +1,16 @@
-.buttons{
+body{
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+}
+
+
+button{
   display: flex;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  border: 1px solid rgb(155, 146, 146);
+  background-color: rgba(255, 248, 248, 0.925);
+  color: rgb(0, 0, 0);
+  font-size: 15px;
 }
